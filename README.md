@@ -8,6 +8,8 @@ Ping Gagal
 
 Ping dari PC-A ke PC-B gagal karena router belum aktif dan router belum dikonfigurasi dari ip default gateway nya untuk menghubungkan antar jaringan yang digunakan sebagai jembatan untuk berkomunikasi
 
+---
+
 Ping Berhasil
 
 <img width="478" height="229" alt="Screenshot 2025-11-05 105247" src="https://github.com/user-attachments/assets/1f850ea1-1bb1-496d-a322-b6e3287c3e3c" />
