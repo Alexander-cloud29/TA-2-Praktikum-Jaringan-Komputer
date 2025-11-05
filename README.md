@@ -16,4 +16,4 @@ Ping Berhasil
 
 Ping dari PC-A ke PC-B sudah berhasil karena router sudah aktif dan sudah diberikan ip default gateway nya
 
-Link Youtube: 
+Link Youtube: https://youtu.be/HDBLH-0oZhs
